@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/TaskManager/static/js/main.0e0c2351.chunk.js",
+    "main.js.map": "/TaskManager/static/js/main.0e0c2351.chunk.js.map",
+    "runtime~main.js": "/TaskManager/static/js/runtime~main.ae49988c.js",
+    "runtime~main.js.map": "/TaskManager/static/js/runtime~main.ae49988c.js.map",
+    "static/js/2.e2ae73b9.chunk.js": "/TaskManager/static/js/2.e2ae73b9.chunk.js",
+    "static/js/2.e2ae73b9.chunk.js.map": "/TaskManager/static/js/2.e2ae73b9.chunk.js.map",
+    "index.html": "/TaskManager/index.html",
+    "precache-manifest.cd7e20f637e649c3c98a328c38109576.js": "/TaskManager/precache-manifest.cd7e20f637e649c3c98a328c38109576.js",
+    "service-worker.js": "/TaskManager/service-worker.js"
+  }
+}

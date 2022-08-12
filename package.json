@@ -1,8 +1,10 @@
 {
   "name": "tasktool",
+  "homepage": "https://biswa-raju12.github.io/TaskManager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "immer": "^3.1.3",
     "react": "^16.8.6",
     "react-dnd": "^9.3.2",
@@ -13,6 +15,8 @@
     "styled-components": "^4.3.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
